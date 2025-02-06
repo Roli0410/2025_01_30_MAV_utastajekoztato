@@ -1,13 +1,21 @@
-table, th, td {
+table, th, td{
     border: 1px solid;
     border-collapse: collapse;
   }
 
-  table {
-width: 80%;
-/* weboldal szélessége */
-background-color: green; /*háttérszín*/
-color: aquamarine; /*betűszín*/
-font-family:'Courier New'; /*betűtipus*/
-font-size: 24px; /*betűméret*/
-  }
+table {
+  width: 80%;
+  /* weboldal szélessége */
+  background-color: green; /*háttérszín*/
+  color: aquamarine; /*betűszín*/
+  font-family:'Courier New'; /*betűtipus*/
+  font-size: 24px; /*betűméret*/
+}
+
+#keses{
+  background-color: red;
+}
+
+.paratlan_oszlop{
+  background-color: lightgreen;
+}
