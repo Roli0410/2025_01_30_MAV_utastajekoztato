@@ -5,6 +5,9 @@ table, th, td {
 
   table {
 width: 80%;
-background-color: green;
-color: aquamarine;
+/* weboldal szélessége */
+background-color: green; /*háttérszín*/
+color: aquamarine; /*betűszín*/
+font-family:'Courier New'; /*betűtipus*/
+font-size: 24px; /*betűméret*/
   }
