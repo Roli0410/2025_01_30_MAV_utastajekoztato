@@ -1,10 +1,26 @@
-table, td, th{
+table, td, th {
    border: 2px solid;
    border-collapse:collapse;
 }
 
 table {
     width: 100%;
-    height: 60px;
-    
+    /*weboldal szélessége */
+    height: 300px;
+    background-color: darkcyan;
+    color: white;
+    font-family: 'Courier New';
+    font-size: 30px; 
+}
+
+#zöld {
+    background-color: green;
+}
+
+#piros {
+    background-color: red;
+}
+
+.paros_oszlop {
+    background-color: lightblue;
 }
