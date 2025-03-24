@@ -50,22 +50,27 @@ A projekt élőben megtekinthető az alábbi linken:
 </html>
 ```
 
-## 🎨 CSS Stílusok
+## CSS Stílusok
 ```css
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
-    text-align: center;
+table, th, td{
+  border: 1px solid;
+  border-collapse: collapse;
 }
 
 table {
-    width: 80%;
-    margin: 20px auto;
-    border-collapse: collapse;
+  width: 80%;
+  /* weboldal szélessége */
+  background-color: green; /*háttérszín*/
+  color: rgb(255, 255, 255); /*betűszín*/
+  font-family:'Courier New'; /*betűtipus*/
+  font-size: 24px; /*betűméret*/
 }
 ```
 
-### 🔧 Fejlesztési lehetőségek
-- [ ] 🔄 Dinamikus adatbetöltés API-n keresztül
-- [ ] 🔍 Keresési és szűrési lehetőségek
-- [x] 📱 Reszponzív megjelenítés mobileszközökre
+###  Fejlesztési lehetőségek
+- [ ]  Dinamikus adatbetöltés API-n keresztül
+- [ ]  Keresési és szűrési lehetőségek
+- [x]  Reszponzív megjelenítés mobileszközökre
+
+### Felügyelő
+Juhász Szabolcs
