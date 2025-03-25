@@ -68,9 +68,9 @@ table {
 ```
 
 ###  Fejlesztési lehetőségek
-- [ ]  Dinamikus adatbetöltés API-n keresztül
-- [ ]  Keresési és szűrési lehetőségek
-- [x]  Reszponzív megjelenítés mobileszközökre
+- Dinamikus adatbetöltés API-n keresztül
+- Keresési és szűrési lehetőségek
+- Reszponzív megjelenítés mobileszközökre
 
 ### Felügyelő
-Juhász Szabolcs
+Juhász Szabolcs tanárúr 
