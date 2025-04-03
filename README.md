@@ -2,19 +2,20 @@
 
 Ez a projekt egy egyszerű webes felületet biztosít a MÁV vonatindulások és érkezések megjelenítésére. A weboldal **HTML** és **CSS** segítségével készült, és egy táblázatos formátumban jeleníti meg az aktuális menetrendet.
 
-###  Funkciók
+###  Funkciók🔥🔥🔥
 -  Induló és érkező vonatok listázása táblázatban
 -  Állomás, indulási és érkezési idők megjelenítése
 -  Felhasználóbarát, letisztult dizájn
 
-###  Használat
+###  Használat🤔
 Egyszerűen nyisd meg a  weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
-####  Élő demó
+
+####  Élő demó👉
 
 A projekt élőben megtekinthető az alábbi linken:  
 [ MÁV Utastájékoztató](https://github.com/Roli0410/2025_01_30_MAV_utastajekoztato.git)
 
-###  Alap HTML szerkezet
+###  Alap HTML szerkezet🌟
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +51,7 @@ A projekt élőben megtekinthető az alábbi linken:
 </html>
 ```
 
-## CSS Stílusok
+## CSS Stílusok😎
 ```css
 table, th, td{
   border: 1px solid;
@@ -67,10 +68,10 @@ table {
 }
 ```
 
-###  Fejlesztési lehetőségek
-- Dinamikus adatbetöltés API-n keresztül
-- Keresési és szűrési lehetőségek
-- Reszponzív megjelenítés mobileszközökre
+###  Fejlesztési lehetőségek🔧
+- Dinamikus adatbetöltés API-n keresztül👀
+- Keresési és szűrési lehetőségek👀
+- Reszponzív megjelenítés mobileszközökre👀
 
-### Felügyelő
-Juhász Szabolcs tanárúr 
+### Felügyelő🌐
+Juhász Szabolcs tanárúr 😉
